@@ -19,7 +19,7 @@ Celem projektu jest analiza skuteczności transmisji dla różnych metod modulac
 
 ## Struktura modelu transmisyjnego
 
-![Schemat transmisji](diagram.png)
+![Schemat transmisji](images/diagram.png)
 
 Model zawiera następujące etapy:
 1. **Źródło danych** – generowanie danych binarnych
@@ -66,10 +66,10 @@ Wyniki zaprezentowano na wykresach zależności BER (Bit Error Rate) od parametr
 
 ### BER dla scenariusza Alfa
 
-![BER Alfa - wszystkie modulacje](ber_alfa_wszystkie_modulacje.png)
+![BER Alfa - wszystkie modulacje](images/ber_alfa_wszystkie_modulacje.png)
 
 ### BER dla scenariusza Beta
 
-![BER Beta - wszystkie modulacje](ber_beta_wszystkie_modulacje.png)
+![BER Beta - wszystkie modulacje](images/ber_beta_wszystkie_modulacje.png)
 
 ---
