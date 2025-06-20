@@ -19,7 +19,7 @@ Celem projektu jest analiza skuteczności transmisji dla różnych metod modulac
 
 ## Struktura modelu transmisyjnego
 
-![Schemat transmisji](images/diagram.png)
+![Schemat transmisji](images/Diagram.png)
 
 Model zawiera następujące etapy:
 1. **Źródło danych** – generowanie danych binarnych
